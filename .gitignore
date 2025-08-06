@@ -1,0 +1,6 @@
+svar/
+Thumbs.db
+unused/
+.ipynb_checkpoints/
+__pycache__/
+*.draft.ipynb

@@ -1,0 +1,268 @@
+---
+title: "1: Introduksjon"
+subtitle: SOK-2014 - Nytte-kostnadsanalyse i teori og praksis
+
+author: "Espen Sirnes"
+date: "2024-08-14"
+
+---
+
+
+# Litt om kurset
+
+
+Alle innleveringer vil handle om ett case som dere skal jobbe med gjennom hele semesteret 
+
+* To obligatoriske innleveringer (arbeidskrav) 
+* Presentasjon (arbeidskrav) 
+* Prosjektoppgave (karaktergivende) 
+* Fra 1-3 i hver gruppe 
+* Prosjektet dere skal jobbe med er å lage en samfunnsøkonomisk utredning av Elektrifisering av sokkelen
+
+
+
+
+# Hva innebærer elektrifisering av sokkelen?
+Elektrifisering av sokkelen refererer til prosessen med å erstatte eller supplere kraftproduksjonen på offshore olje- og gassplattformer med strøm fra land. Tradisjonelt har disse plattformene generert sin egen elektrisitet ved hjelp av gassturbiner som brenner naturgass, ofte produsert som et biprodukt av oljeutvinningen. Selv om dette har gjort plattformene selvforsynte med energi, har det også bidratt til betydelige CO2-utslipp, ettersom gassforbrenningen er en kilde til klimagasser.
+
+
+
+**Olje- og gassvirksomheten på norsk sokkel er en del av den kvotepliktige sektoren** under EUs kvotesystem (EU ETS), som betyr at utslippene fra denne sektoren er underlagt strenge reguleringer. Innenfor dette systemet er det satt et tak på totale utslipp, og virksomhetene må kjøpe eller motta kvoter for sine utslipp. Dette gjør at utslippene fra olje- og gassproduksjon i prinsippet ikke utgjør et problem for oppnåelsen av klimamålene, da de allerede er regulert gjennom kvotesystemet. Ifølge Parisavtalen regnes utslippene i kvotepliktig sektor som håndtert, og de omfattes dermed av de globale klimamålene.
+
+**Elektrifisering av sokkelen** innebærer imidlertid å koble plattformene til landbaserte elektrisitetsnett, slik at de kan drives av strøm fra land, som i stadig større grad kommer fra fornybare energikilder som vannkraft, vindkraft, og i noen tilfeller solenergi. Dette reduserer behovet for å brenne naturgass på plattformene, noe som fører til en betydelig reduksjon i klimagassutslippene fra offshore olje- og gassvirksomhet.
+
+**Hovedkomponentene i elektrifisering av sokkelen inkluderer:**
+
+1. **Kabelinfrastruktur**: Det må legges undersjøiske høyspentkabler som kan transportere strøm fra fastlandet til plattformene offshore. Disse kablene må tåle utfordrende forhold, inkludert stor dybde, trykk og potensielle værforhold som kan påvirke driften.
+
+2. **Transformatorstasjoner**: For å sikre at strømmen kan brukes effektivt på plattformene, er det nødvendig å etablere transformatorstasjoner både på land og på plattformene. Disse stasjonene omformer strømmen til passende spenning og frekvens for bruk i plattformens systemer.
+
+3. **Tilpasning av plattformene**: Plattformene må ofte tilpasses for å kunne motta og bruke strøm fra land. Dette kan innebære installasjon av nye elektriske komponenter, samt integrering av styrings- og kontrollsystemer som kan håndtere strømforsyning fra eksterne kilder.
+
+**Fordeler ved elektrifisering:**
+
+- **Reduksjon av CO2-utslipp**: Den største fordelen ved elektrifisering av sokkelen er den potensielle reduksjonen i CO2-utslipp. Ved å bruke fornybar strøm fra land i stedet for gassdrevne generatorer, kan utslippene fra plattformene reduseres betydelig. Netto vil imidlertid reduksjonen i CO2-utslipp i utgangspunktet være null, fordi utslippene er i kvoteplitig sektor. Det betyr at de kvotene som for eksempel Equinor ikke lenger kjøper, vil bli kjøpt og brukt av noen andre. Reduksjonen i CO2 vil imidlertid redusere behovet for CO2-kvoter, noe som vil redusere kostnadene ved utvinning. 
+
+- **Miljømessig og sosial aksept**: Selv om utslippene fra kvotepliktig sektor er regulert, kan reduksjon av utslippene fra olje- og gassvirksomheten bidra til bedre miljømessig og sosial aksept for industrien. Dette kan være viktig for å opprettholde tilliten til norsk energipolitikk og videreutvikling av sektoren.
+
+- **Driftsmessige fordeler**: Strøm fra land kan være mer stabil og pålitelig enn gassdrevne generatorer, noe som kan redusere vedlikeholdskostnader og øke oppetiden på plattformene.
+
+**Utfordringer ved elektrifisering:**
+
+- **Kostnader**: Elektrifisering krever betydelige investeringer i infrastruktur, inkludert kabler, transformatorstasjoner, og tilpasning av plattformene. Kostnadene må balanseres mot de potensielle miljømessige og økonomiske gevinstene, selv om utslippene allerede er håndtert gjennom kvotesystemet.
+
+- **Teknisk kompleksitet**: Å bygge og vedlikeholde undersjøiske kabler og sikre pålitelig strømforsyning til offshore plattformer er teknisk utfordrende, spesielt i Nordsjøen hvor værforholdene kan være krevende.
+
+- **Avhengighet av landbasert strøm**: Ved å overføre kraftproduksjonen til land, blir plattformene mer avhengige av stabiliteten i det landbaserte strømnettet. Eventuelle problemer med strømforsyningen på land kan påvirke driften på plattformene.
+
+
+
+# Hva er tiltaket?
+
+* Erstatte kraft på offshore plattformer med landstrøm
+* Tradisjonelt produsert egen elektrisitet med gass
+* En del av kvotepliktig sektor
+* Avbøtende tiltak - havvind
+
+Nytte: 
+
+  * Lavere utslipp/reduserte CO2-kostnader
+  * Lavere driftskostnader(?)
+  
+Kostnad:
+
+  * Investeringer
+  * Begrenset mengde strøm
+  * Avbøtende tiltak - havvind
+
+
+
+# Hva må utredes?
+* Investering i anlegg for å føre strøm til plattformene
+* Kostnaden for strømmen som brukes
+* Kostnaden ved alternativt å fortsette å kjøpe CO2-kvoter
+* Muligheten for å selge gassen som ikke brukes, videre
+  * I hvilken grad brennes gassen uansett opp? ("fakling")
+  * I hvilekn grad finnes det rør (forskjell for olje- og gassplattformer?)
+* Effekt på prisnivået for strøm bør nevnes, men er det en samfunnsøkonomisk kostnad?
+* Kostnad for avbøtende tiltak - Havvind
+
+
+
+
+# Innleveringene
+
+## Obligatorisk innlevering 1 (Fase 1-3 ihht veilederen):
+
+* Gjør en vurdering av tiltaket ihht. DFØs veileder og identifiser hvilken informasjon som trengs og hvilke forutsetninger som må gjøres
+* Innhent informasjon
+* Sett opp en disposisjon/arbeidsplan (bruk veilederen)
+
+## Obligatorisk innlevering 2 (Fase 3-5):
+* Bruke det du har lært til å sette opp en nytte-kostnadsanalyse
+* Beregne nåverdi av prosjektet
+
+## Endelig innlevering (Fase 1-8):
+* Forbedre det som er gjort i tidligere innleveringer
+* Lever en endelig utredning av tiltaket.
+* Utredningen bør ha samme form som eksemplene i pensum.
+* Målet er en rapport som kunne vært presentert for Stortinget og Olje- og energidepartementet som grunnlag for en beslutning om elektrifisering.
+
+
+# Nytte-kostnadsanalyse
+
+Nytte-kostnadsanalyse er en utredning av offentlige prosjekter som skal hjelpe politikerne og offentlige institusjoner til å prioritere prosjekter. 
+Det skal være en faglig vurdering og så objektiv som mulig. DFØ har en veileder som skal standardisere prosessen
+
+
+
+
+
+# Grunner til å gjennomføre samfunnsøkonomiske analyser 
+
+* Mest mulig velferd ut av samfunnets knappe ressurser ved å sørge for effektiv ressursbruk 
+* En systematisk gjennomgang av alle virkninger for berørte grupper i samfunnet 
+* Et godt beslutningsgrunnlag for å rangere og prioritere mellom alternative tiltak 
+* Sile ut ulønnsomme tiltak på et tidlig tidspunkt 
+* Et godt grunnlag for å realisere gevinster når tiltaket er iverksatt 
+* Et godt grunnlag for resultatmåling og evaluering av tiltaket i etterkant 
+* Gjøre grunnlaget for beslutninger om offentlige tiltak mer synlig for offentligheten
+
+# Hva brukes en samfunnsøkonomisk analyse til?
+
+* På alle typer offentlige tiltak: reguleringer, investeringer, tjenesteproduksjon, reformer osv.
+* På tiltak utført av private aktører på oppdrag for staten
+* Innenfor alle sektorer i samfunnet
+* På prioriteringer innenfor en virksomhets ansvarsområder, innad i en sektor eller på tvers av ulike sektorer
+
+
+# En samfunnsøkonomisk analyse skal
+
+* Ta hensyn til økonomisk kvantifiserbare effekter (prissatte virkninger)
+* Ta hensyn til ikke-kvantifiserbare effekter (ikke-prissatte virkninger)
+* I så stor grad som mulig/hensiktsmessig ta med all relevant nytte og alle relevante kostnader
+* Unngå dobbelttellinger/glemme alternativ anvendelse
+* Ikke ta politiske hensyn
+* Inneholde en usikkerhetsanalyse
+* Beskrive fordelingsvirkninger
+* Gi en samlet vurdering
+
+
+
+# Eksempel: Ny kvaløyaforbindelse
+
+Fra rapporten:
+
+![Ny kvaløyaforbindelse](/img/kvaloya.png)
+
+
+# Prissatte konsekvenser:
+
+Fra rapporten:
+
+
+
+![Tabell prissatte konsekvenser](/img/kvaloya_tabell.png)
+
+
+# Ikke prissatte konsekvenser:
+
+**Landskapsbilde**
+Alternativ C1 kommer best ut. Alternativene som inneholder Kvaløyforbindelsene B2 og B3, samt B7 (Holt) kommer dårligst ut, og resultatet er at 
+disse alternativene har middels til stor negativ konsekvens for landskapsbilde. Øvrige alternativ har middels negativ konsekvens.
+
+**Nærmiljø og friluftsliv**
+Alternativene som inneholder Kvaløyforbindelsene over Håkøya (B6 og B7) kommer dårligst ut. Resultatet er at disse alternativene har 
+stor negativ konsekvens for nærmiljø og friluftsliv, spesielt gjelder dette B7 som i tillegg berører områder på Holt. Parallell bru (B2) 
+har minst negativ konsekvens for dette temaet. Alternativene som inneholder tverrforbindelsen A4 vil i mindre grad berøre den botaniske 
+hagen i Breivika og kommer således best ut av alternativene for ny tverrforbindelse.
+
+**Naturmangfold**
+Alternativene som inneholder Kvaløyforbindelsene B2 og B3 kommer dårligst ut, og resultatet er at disse alternativene har stor til meget 
+stor negativ konsekvens for naturmangfold. Alternativene over Håkøya (B6 og B7) har begge stor negativ konsekvens. C1 har liten negativ konsekvens. 
+Forslag til kommunedelplan for ny tverrforbindelse og ny forbindelse til Kvaløya 12 Statens vegvesen Region nord
+
+**Kulturmiljø**
+Alternativene som inneholder Kvaløyforbindelsene over Håkøya (B6 og B7) kommer dårligst ut, og resultatet er at disse alternativene har 
+middels til stor negativ konsekvens for kulturmiljø. Øvrige alternativ har middels negativ konsekvens. Det knyttes en del usikkerhet til 
+en del områder (Holt, Langnes), og det vil gjennomføres supplerende markundersøkelser og vurderinger i løpet av barmarksesongen 2015.
+
+**Naturressurser**
+Reindrift: Alternativ som inneholder Kvaløyforbindelsen B3 kommer dårligst ut med middels til stor negativ konsekvens. For øvrige alternativ er 
+konsekvensene satt til middels negativ. Vannressurser: Alternativene som inneholder Kvaløyforbindelsene over Håkøya (B6 og B7) kommer dårligst ut 
+med middels negativ konsekvens. For øvrige alternativene er konsekvensene satt til liten negativ. Jord- og skogbruk: Alternativene som inneholder 
+Kvaløyforbindelsene B3, B6 og B7 kommer dårligst ut med stor negativ konsekvens. Alternativ som inneholder Kvaløyforbindelsen B2 er vurdert til å 
+ha middels til stor negativ konsekvens, C1 til middels negativ konsekvens. Georessurser: Alle alternativene er vurdert til å gi fra liten til 
+middels positiv konsekvens. Årsakene til dette er at det er satt som forutsetning at masseoverskudd er å anse som en ressurs.
+
+
+
+
+# Oppsummering ikke-prissatte konsekvenser:
+
+![Tabell ikke prissatte konsekvenser](/img/kvaloya_ikke_prissatte.png)
+
+Er all relevant nytte og alle relevante kostnader tatt med?
+
+
+# Usikkerhetsanalyse
+
+Kvaløyaforbindelseutredningen inneholder ingen usikkerhetsanalyse I utredningen for Nord-Norgebanen ser den slik ut
+
+![Nordnorgebanen](/img/nnb_usikkerhet.png)
+
+P50, P15 og P85 er kostnadsanslag hvor sannsynligheten for at kostnadene blir lavere enn tallet er henholdsvis 50%, 15% og 85%. Det er en anlig måte å illustrere usikkerhet
+
+
+
+# Fordelingsvirkninger.
+
+Kun én av rapportene som er pensum i dette kurset, behandler fordelingsvirkninger. Det kan tyde på at det ikke alltid anses som relevant å ha i rapporter, selv om det står i veilederen.
+
+I veilederen står det at «Formålet med denne arbeidsfasen er å beskrive hvordan virkningene av tiltakene fordeler seg mellom ulike grupper i samfunnet». Videre: «Beskrivelsen av fordelingsvirkningene tas med som en tilleggsanalyse og skal ikke inngå i grunnlaget for selve rangeringen og anbefalingen av tiltak»
+
+
+
+# Arbeidsfasene
+
+* Beskriv problemet og formuler mål
+* Identifiser og beskriv relevante tiltak
+* Identifiser og beskrive virkningene
+* Tallfest, vedsett og vurder virkninger
+* Vurder samfunnsøkonomisk lønnsomhet
+* Gjennomfør usikkerhetsanalyse
+* Beskrive fordelingsvirkninger
+* Gi en samlet vurdering og anbefal tiltak
+
+
+
+# Fasene
+
+## Problembeskrivelse
+
+En har et problem når dagens situasjon eller utvikling oppfattes å være er en annen enn den som er ønsket. 
+I et samfunn finnes det problemer av mange slag uten at det dermed er en samfunnsoppgave å løse alle disse. 
+De problemene som samfunnet kan eller bør løse, kalles samfunnsproblemer.
+
+1. Beskriv det observerte problemet.
+2. Beskriv årsakene til problemet.
+3. Beskriv og tallfest de samfunnsmessige konsekvensene av problemet.
+
+
+## Hva er et tiltak?
+
+* pedagogiske virkemidler, for eksempel veiledning og informasjon
+* økonomiske virkemidler, for eksempel avgifter eller tilskudd
+* regulering, for eksempel påbud eller forbud
+* organisatoriske virkemidler, for eksempel sentralisering eller desentralisering
+* offentlige tilbud av produkter og tjenester, for eksempel infrastruktur og helsetjenester
+* offentlige anskaffelser, for eksempel IKT-tjenester og kontorutstyr
+
+
+## Stegvis prosess for komme frem til de relevante tiltakene
+
+* Definer mulighetsrommet.
+* Utforsk mulighetsrommet.
+* Grovsil tiltakene.
+* Beskriv tiltakene og vurder utformingen.
+
