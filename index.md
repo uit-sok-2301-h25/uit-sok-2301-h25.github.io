@@ -42,7 +42,7 @@ Hva lærer du
 
 •           presentere resultatene i ulike form for både fagpersoner og andre.
 
-Fullstendig beskrivelse finnes [her](https://uit.no/utdanning/aktivt/emne/SOK-2014){:target="blank"}
+Fullstendig beskrivelse finnes [her](https://uit.no/utdanning/aktivt/emne/SOK-2301){:target="blank"}
 
 ## Kursplan  
 
@@ -50,7 +50,7 @@ Kursplanen inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/o
 Der finner du oggså oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
 - [Kursplan](kursplan.html){:target="blank"}
-- [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=23h&fag=&module[]=SOK-2014-1#week-25){:target="blank"} på timeplan.uit.no
+- [Timeplan](https://tp.educloud.no/uit/timeplan/timeplan.php?id%5B%5D=SOK-2301%2C1&type=course&sem=25h&campus=&hide_old=1){:target="blank"} på tp.educloud.no
 
 ## Faglærerinfo  
 
@@ -64,7 +64,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 ## Pensum  
 
-[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/){:target="blank"}  
+[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/nui/lists/13377414060002205){:target="blank"}  
 
 *Hovedbok*: Boardman, Anthony E., Vining, Aidan R., Greenberg, David H., Weimer, David L.: "Cost-Benefit Analysis : Concepts and Practice." Prentice Hall (5th edition), ISBN: 9781108415996.        
 
