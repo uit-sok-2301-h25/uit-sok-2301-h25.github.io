@@ -1,6 +1,6 @@
 ---
 title: "3: Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet"
-subtitle: SOK-2014 - Nytte-kostnadsanalyse i teori og praksis
+subtitle: SOK-2301 - Nytte-kostnadsanalyse i teori og praksis
 
 author: "Espen Sirnes"
 date: "2024-09-02"
@@ -11,7 +11,7 @@ format:
     #multiplex: true
     chalkboard: true
     self-contained: false
-    footer: "[uit-sok-2014-v24.github.io/](https://uit-sok-2014-h24.github.io/)"
+    footer: "[uit-sok-2301-v24.github.io/](https://uit-sok-2301-h25.github.io/)"
     slide-number: c/t
     title-slide-attributes:
       data-background-image: img/title_slide.png

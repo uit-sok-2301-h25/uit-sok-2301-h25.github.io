@@ -42,7 +42,7 @@ export default () => Plugin;
  * http://lab.hakim.se/zoom-js
  * MIT licensed
  *
- * Copyright (C) 2011-2014 Hakim El Hattab, http://hakim.se
+ * Copyright (C) 2011-2301 Hakim El Hattab, http://hakim.se
  */
 var zoom = (function(){
 
