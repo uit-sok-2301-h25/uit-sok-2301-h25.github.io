@@ -3,7 +3,7 @@ title: "4: Virkninger uten markedspris og usikkerhet"
 subtitle: SOK-2301 - Nytte-kostnadsanalyse i teori og praksis
 
 author: "Espen Sirnes"
-date: "2024-09-09"
+date: "2025-09-09"
 format: 
   revealjs: 
     smaller: true

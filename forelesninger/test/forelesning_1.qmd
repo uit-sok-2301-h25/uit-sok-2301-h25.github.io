@@ -73,7 +73,7 @@ from: markdown+emoji
 
 -   Normalt vil problemstillinger til bacheloroppgaven foreslås av fagstaben i samfunnsøkonomi
 
--   Temaområde for 2024: [Hva forklarer sosial tillit?]{style="color:#00B050"}
+-   Temaområde for 2025: [Hva forklarer sosial tillit?]{style="color:#00B050"}
 
 -   Bacheloroppgaven skrives normalt sammen med en annen kandidat på samme studieprogram
 
@@ -225,6 +225,6 @@ Forskningsverksted med presentasjon av årets tema!
 
 ## Master i samfunnsøkonomi med datavitenskap :mega:
 
--   [vi starter med helt ny master i høsten 2024](https://uit.no/utdanning/program/sub?sub_id=834428&p_document_id=656582)!
+-   [vi starter med helt ny master i høsten 2025](https://uit.no/utdanning/program/sub?sub_id=834428&p_document_id=656582)!
 
     ![](images/clipboard-3364183664.png){fig-align="center"}
