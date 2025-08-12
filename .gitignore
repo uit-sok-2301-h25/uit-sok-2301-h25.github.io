@@ -4,3 +4,4 @@ unused/
 .ipynb_checkpoints/
 __pycache__/
 *.draft.ipynb
+*.df
