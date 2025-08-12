@@ -29,7 +29,7 @@ Pensum:
 |16. oktober  |F9  | Risiko, sensitivitetsanalyse og opsjonsverdi | TK |  BGVW kap. 11 [Lecture note](forelesninger/L4.pdf) |
 |20. oktober|F11 | Ekstern presentasjon? | ES |  |
 |25. oktober |**Frist** AK 2  | Innlevering av andre arbeidskrav |  |Fredag 25. okt. 1600 |
-|13. november |**Presentasjon** | Presentasjon av prosjektroppgaven (Rom 02.216) | ES |Påmeldingsskjema kommer |
+|12. november |**Presentasjon** | Presentasjon av prosjektroppgaven (Rom 02.216) | ES |Påmeldingsskjema kommer |
 |18. november |**Frist** PRO  | Innlevering av prosjektoppgave |  |Kl. 13.00 i Wiseflow |
 
 
