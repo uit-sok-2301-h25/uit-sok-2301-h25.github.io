@@ -16,13 +16,13 @@ Pensum:
 
 |Dato <img width=100/>| Sesjon <img width=80/>   | Tema                                                              | Lærer  | Ressurser <img width=200/>  |
 |--------|----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
-| 19. august|F1   | Innledning - Hva er kostnads-nytte analyse, og hvordan gjennomføres dette? | ES       | [Veil Kap. 1, 2, 3.1, 3.2](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 1](forelesninger/Forelesning 1 slides.html)  | 
-|25. august |F2  | Identifisering av virkninger og ringvirkninger  | ES | [Veil Kap 3.3, 4.3 vedlegg 1.1](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 2](forelesninger/Forelesning 2 slides.html) |
+| 19. august|F1   | Innledning - Hva er kostnads-nytte analyse, og hvordan gjennomføres dette? | ES       | [Veil Kap. 1, 2, 3.1, 3.2](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 1](forelesninger/Forelesning 1 slides.html) [pdf](forelesninger/Forelesning 1.pdf) [jupyter](forelesninger/Forelesning 1.ipynb) | 
+|25. august |F2  | Identifisering av virkninger og ringvirkninger  | ES | [Veil Kap 3.3, 4.3 vedlegg 1.1](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 2](forelesninger/Forelesning 2 slides.html) [pdf](forelesninger/Forelesning 2.pdf) [jupyter](forelesninger/Forelesning 2.ipynb)|
 |28. august|F4  | Mikroøkomisk fundament for nytte-kostnadsanalyse | TK | BGVW kap. 2,3 [Lecture note](forelesninger/L1.pdf) |
 |4. september|F6  | Verdsetting av effekter i innsatsmarkedet, sluttproduktmarkedet og sekundærmarkedet | TK |  BGVW kap. 5, 6, 7 [Lecture note](forelesninger/L2.pdf) | 
-|8. september|F3  |Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet | ES | [Veil Kap 3.4, 3.5](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 3](forelesninger/Forelesning 3 slides.html) |
+|8. september|F3  |Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet | ES | [Veil Kap 3.4, 3.5](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 3](forelesninger/Forelesning 3.html) [pdf](forelesninger/Forelesning 2.pdf) [jupyter](forelesninger/Forelesning 2.ipynb)|
 |13. september |**Frist** AK 1  | Innlevering av første arbeidskravbeidskrav |  |Fredag 13. sept. 1600  |
-|22. september |F5  | Usikkerhet og virkninger uten markedspris | ES | [Veil Kap 4.1, 3.6, 4.4](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 4](forelesninger/Forelesning 4 slides.html) |
+|22. september |F5  | Usikkerhet og virkninger uten markedspris | ES | [Veil Kap 4.1, 3.6, 4.4](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 4](forelesninger/Forelesning 4.html) [pdf](forelesninger/Forelesning 4.pdf) [jupyter](forelesninger/Forelesning 4.ipynb)|
 |26. september|F8  | Diskontering  og versetting uten markedspris | TK |  BGVW kap. 9, 10, 15 [Lecture note](forelesninger/L3.pdf) |
 |6. oktober|F7  | Sammenfatning av effekter  | ES |[ Veil Kap 3.7, 3.8](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 1] |
 |13. oktober|F10 | Tips til oppgaven  | ES |  |

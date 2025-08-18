@@ -1,0 +1,11 @@
+project:
+  type: default
+  render:
+
+    - Forelesning 3.qmd
+    - Forelesning 4.qmd
+
+
+format:
+  pdf: default
+  ipynb: default
