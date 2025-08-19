@@ -85,9 +85,10 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 - [Nyttekostanalyse Nord-Norgebanen](/articles/vedlegg-11-nyttekostrapport-nnb.pdf){:target="blank"}, Jernbanedirektoratet, 2019
 - [Felles fakturerering av strøm - alt på én strømregning](/articles/Oslo-Economics-fakturering-strøm-2017.pdf){:target="blank"}, Oslo Economics 2017
 - [Samfunnsøkonomisk analyse av utenforskap](/articles/Oslo Economics utenforskap 2021.pdf){:target="blank"}, Oslo Economics 2021
-- [Samfunnsøkonomisk analyse av vold i nære relasjoner](articles/menon-rapport-samfunnsokonomiske-kostnader-av-vold-i-nare-relasjoner.pdf){:target="blank"}, Oslo Economics 2021
-- [Samfunnsøkonomiske kostnader av kriminalitet](articles/r06-2022-samfunnsokonomiske-kostnader-av-kriminalitet.pdf){:target="blank"}, Oslo Economics 2021
-- [Kartlegging av egne merkevarer og vertikal integrasjon i dagligvarebransjen](articles/r15-2023-kartlegging-av-egne-merkevarer-og-vertikal-integrasjon-i-dagligvaremarkedet.pdf){:target="blank"}, Oslo Economics 2022
+- [Samfunnsøkonomisk analyse av vold i nære relasjoner](articles/menon-rapport-samfunnsokonomiske-kostnader-av-vold-i-nare-relasjoner.pdf){:target="blank"}, Menon Economics 2023
+- [Samfunnsøkonomiske kostnader av kriminalitet](articles/r06-2022-samfunnsokonomiske-kostnader-av-kriminalitet.pdf){:target="blank"}, Samfunnsøkonomisk Analyse AS, 2022
+- [Kartlegging av egne merkevarer og vertikal integrasjon i dagligvarebransjen](articles/r15-2023-kartlegging-av-egne-merkevarer-og-vertikal-integrasjon-i-dagligvaremarkedet.pdf){:target="blank"}, Samfunnsøkonomisk Analyse AS, 2023
+
 
 ## Kunngjøringer  
 
