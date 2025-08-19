@@ -18,3 +18,6 @@ Christian og Kevin
 
 # Idrettsanlegg
 Sivert, Niclas og Paul
+
+# Nordlys vindpark
+Mia og Michael 
