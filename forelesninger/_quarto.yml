@@ -10,4 +10,4 @@ project:
 format:
   pdf: default
   ipynb: default
-  revealjs: default
+  html: default
