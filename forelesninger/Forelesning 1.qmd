@@ -5,6 +5,11 @@ subtitle: SOK-2301 - Nytte-kostnadsanalyse i teori og praksis
 author: "Espen Sirnes"
 date: "2025-08-14"
 
+format:
+  revealjs: 
+    smaller: true
+  pdf: default
+  ipynb: default
 ---
 
 
@@ -17,14 +22,19 @@ Alle innleveringer vil handle om ett case som dere skal jobbe med gjennom hele s
 * Presentasjoner (arbeidskrav) 
 * Prosjektoppgave (karaktergivende) 
 * Fra 1-3 i hver gruppe 
-* Prosjektet dere skal jobbe med er å lage en samfunnsøkonomisk utredning av ny Kvaløyaforbindelse
 
 
 # Problemstillingen
-Dagens bro til Kvaløya er overbelastet, noe som fører til kø, forsinkelser og redusert fremkommelighet for både privatpersoner og næringsliv. Dette skaper utfordringer for transport, beredskap og utvikling på Kvaløya, og det er behov for tiltak som kan bedre trafikksituasjonen og sikre tilstrekkelig kapasitet for fremtidig vekst.
+* Prosjektet dere skal jobbe med er å lage en samfunnsøkonomisk utredning av ny Kvaløyaforbindelse
+* Dagens bro til Kvaløya er overbelastet, noe som fører til kø, forsinkelser og redusert fremkommelighet for både privatpersoner og næringsliv. 
+* Dette skaper utfordringer for transport, beredskap og utvikling på Kvaløya, og det er behov for tiltak som kan bedre trafikksituasjonen og sikre tilstrekkelig kapasitet for fremtidig vekst.
+
 ![Kø Kvaløya](/img/que_kvaloya.jpg)
 
-En ny forbindelse vil, i tillegg til å økt fremkommelighet og bedre bedre beredskap, potensielt kunne bidra til rimelige tomter. Tromsø er en av de dyreste byene å bo i. En ny Kvaløyaforbindelse kan knytte nye områder og rimelige tomter på Kvaløya nær sentrum, og bidra til lavere boligpriser.
+# Nytte
+* En ny forbindelse vil, i tillegg til å økt fremkommelighet og bedre bedre beredskap, potensielt kunne bidra til rimelige tomter. 
+* Tromsø er en av de dyreste byene å bo i. 
+* En ny Kvaløyaforbindelse kan knytte nye områder og rimelige tomter på Kvaløya nær sentrum, og bidra til lavere boligpriser.
 
 
 # Informasjon som må innhentes
@@ -66,7 +76,7 @@ Nytte-kostnadsanalyse er en utredning av offentlige prosjekter som skal hjelpe p
 Det skal være en faglig vurdering og så objektiv som mulig. DFØ har en veileder som skal standardisere prosessen
 
 
-# Grunner til å gjennomføre samfunnsøkonomiske analyser 
+## Hvorfor?
 
 * Mest mulig velferd ut av samfunnets knappe ressurser ved å sørge for effektiv ressursbruk 
 * En systematisk gjennomgang av alle virkninger for berørte grupper i samfunnet 
@@ -77,10 +87,12 @@ Det skal være en faglig vurdering og så objektiv som mulig. DFØ har en veiled
     * ha resultatmål for evaluering av tiltaket i etterkant 
     * gjøre grunnlaget for beslutninger om offentlige tiltak mer synlig for offentligheten
 
-I tillegg finnes det mindre allmennyttige grunner. Mange av de samfunnsøkonomiske analysene som publiseres, gjøres på privat initativ. 
-Målet er da ofte å påvirke politiske beslutninger, i tillegg til at de også kan ha målsetninger som over.
+## Andre grunner  
+* I tillegg finnes det mindre allmennyttige grunner. 
+* Mange av de samfunnsøkonomiske analysene som publiseres, gjøres på privat initativ. 
+* Målet er da ofte å påvirke politiske beslutninger, i tillegg til at de også kan ha målsetninger som over.
 
-# Hva lages det samfunnsøkonomiske analyser om?
+## Hvilke tema?
 
 * Alle typer offentlige tiltak: reguleringer, investeringer, tjenesteproduksjon, reformer osv.
 * På tiltak utført av private aktører på oppdrag for staten
@@ -88,7 +100,7 @@ Målet er da ofte å påvirke politiske beslutninger, i tillegg til at de også 
 * På prioriteringer innenfor en virksomhets ansvarsområder, innad i en sektor eller på tvers av ulike sektorer
 
 
-# En samfunnsøkonomisk analyse skal
+## Analysen skal
 
 * Ta hensyn til økonomisk kvantifiserbare effekter (prissatte virkninger)
 * Ta hensyn til ikke-kvantifiserbare effekter (ikke-prissatte virkninger)
@@ -102,14 +114,14 @@ Målet er da ofte å påvirke politiske beslutninger, i tillegg til at de også 
 
 
 
-# Eksempel: Ny kvaløyaforbindelse
+# Tidligere rapport om ny kvaløyaforbindelse
 
 Fra rapporten:
 
 ![Ny kvaløyaforbindelse](/img/kvaloya.png)
 
 
-# Prissatte konsekvenser:
+## Prissatte konsekvenser:
 
 Fra rapporten:
 
@@ -117,47 +129,14 @@ Fra rapporten:
 ![Tabell prissatte konsekvenser](/img/kvaloya_tabell.png)
 
 
-# Ikke prissatte konsekvenser:
+## Ikke prissatte konsekvenser:
 
-**Landskapsbilde**
-Alternativ C1 kommer best ut. Alternativene som inneholder Kvaløyforbindelsene B2 og B3, samt B7 (Holt) kommer dårligst ut, og resultatet er at 
-disse alternativene har middels til stor negativ konsekvens for landskapsbilde. Øvrige alternativ har middels negativ konsekvens.
-
-**Nærmiljø og friluftsliv**
-Alternativene som inneholder Kvaløyforbindelsene over Håkøya (B6 og B7) kommer dårligst ut. Resultatet er at disse alternativene har 
-stor negativ konsekvens for nærmiljø og friluftsliv, spesielt gjelder dette B7 som i tillegg berører områder på Holt. Parallell bru (B2) 
-har minst negativ konsekvens for dette temaet. Alternativene som inneholder tverrforbindelsen A4 vil i mindre grad berøre den botaniske 
-hagen i Breivika og kommer således best ut av alternativene for ny tverrforbindelse.
-
-**Naturmangfold**
-Alternativene som inneholder Kvaløyforbindelsene B2 og B3 kommer dårligst ut, og resultatet er at disse alternativene har stor til meget 
-stor negativ konsekvens for naturmangfold. Alternativene over Håkøya (B6 og B7) har begge stor negativ konsekvens. C1 har liten negativ konsekvens. 
-Forslag til kommunedelplan for ny tverrforbindelse og ny forbindelse til Kvaløya 12 Statens vegvesen Region nord
-
-**Kulturmiljø**
-Alternativene som inneholder Kvaløyforbindelsene over Håkøya (B6 og B7) kommer dårligst ut, og resultatet er at disse alternativene har 
-middels til stor negativ konsekvens for kulturmiljø. Øvrige alternativ har middels negativ konsekvens. Det knyttes en del usikkerhet til 
-en del områder (Holt, Langnes), og det vil gjennomføres supplerende markundersøkelser og vurderinger i løpet av barmarksesongen 2015.
-
-**Naturressurser**
-Reindrift: Alternativ som inneholder Kvaløyforbindelsen B3 kommer dårligst ut med middels til stor negativ konsekvens. For øvrige alternativ er 
-konsekvensene satt til middels negativ. Vannressurser: Alternativene som inneholder Kvaløyforbindelsene over Håkøya (B6 og B7) kommer dårligst ut 
-med middels negativ konsekvens. For øvrige alternativene er konsekvensene satt til liten negativ. Jord- og skogbruk: Alternativene som inneholder 
-Kvaløyforbindelsene B3, B6 og B7 kommer dårligst ut med stor negativ konsekvens. Alternativ som inneholder Kvaløyforbindelsen B2 er vurdert til å 
-ha middels til stor negativ konsekvens, C1 til middels negativ konsekvens. Georessurser: Alle alternativene er vurdert til å gi fra liten til 
-middels positiv konsekvens. Årsakene til dette er at det er satt som forutsetning at masseoverskudd er å anse som en ressurs.
-
-
-
-
-# Oppsummering ikke-prissatte konsekvenser:
 
 ![Tabell ikke prissatte konsekvenser](/img/kvaloya_ikke_prissatte.png)
 
-Er all relevant nytte og alle relevante kostnader tatt med?
 
 
-# Usikkerhetsanalyse
+## Usikkerhetsanalyse
 
 Kvaløyaforbindelseutredningen inneholder ingen usikkerhetsanalyse I utredningen for Nord-Norgebanen ser den slik ut
 
@@ -167,9 +146,9 @@ P50, P15 og P85 er kostnadsanslag hvor sannsynligheten for at kostnadene blir la
 
 
 
-# Fordelingsvirkninger.
+## Fordelingsvirkninger.
 
-Kun én av rapportene som er pensum i dette kurset, behandler fordelingsvirkninger. Det kan tyde på at det ikke alltid anses som relevant å ha i rapporter, selv om det står i veilederen.
+* Bare noen av rapportene som er pensum i dette kurset, behandler fordelingsvirkninger. Det kan tyde på at det ikke alltid anses som relevant å ha i rapporter, selv om det står i veilederen.
 
 I veilederen står det at «Formålet med denne arbeidsfasen er å beskrive hvordan virkningene av tiltakene fordeler seg mellom ulike grupper i samfunnet». Videre: «Beskrivelsen av fordelingsvirkningene tas med som en tilleggsanalyse og skal ikke inngå i grunnlaget for selve rangeringen og anbefalingen av tiltak»
 
@@ -186,9 +165,6 @@ I veilederen står det at «Formålet med denne arbeidsfasen er å beskrive hvor
 * Beskrive fordelingsvirkninger
 * Gi en samlet vurdering og anbefal tiltak
 
-
-
-# Fasene
 
 ## Problembeskrivelse
 
@@ -219,14 +195,19 @@ De problemene som samfunnet kan eller bør løse, kalles samfunnsproblemer.
 * Beskriv tiltakene og vurder utformingen.
 
 
-# Struktur på forelesningene  
+## Analysér
 
-Mine forelesninger tar for seg hvordan man i praksis utarbeider en nytte-kostnadsanalyse, mens Tapas’ forelesninger fokuserer på teorien.  
-For å lære hvordan slike analyser faktisk skrives, skal vi de neste tre forelesningene gå gjennom utvalgte eksempler.  
+* Tallfest
+* Beregn nåverdi
+* Gjennomfør usikkerhethsanalyse 
+* Vurder ikke prissatte virkninger og fordeling
 
-Hver forelesning starter med en kort introduksjon til dagens tema. Deretter får dere tid til å arbeide med virkelige samfunnsøkonomiske analyser i grupper på inntil tre personer.  
 
-[Under pensum](https://uit-sok-2301-h25.github.io/index.html) finner dere en liste med analyser dere kan velge fra. Hver gruppe velger én rapport, og dere arbeider med den i omtrent en halvtime per forelesning. Til slutt har vi en felles oppsummering der vi deler funnene våre knyttet til dagens tema. Dersom vi ikke rekker å fullføre oppsummeringen, fortsetter vi i neste time.  
 
-Det er en fordel om dere ser raskt gjennom *deres rapport* i forkant, med tanke på temaet for den aktuelle forelesningen.  
+# Forelesningene  
+
+* Mine forelesninger tar for seg hvordan man i praksis utarbeider en nytte-kostnadsanalyse, mens Tapas’ forelesninger fokuserer på teorien.  For å lære hvordan slike analyser faktisk skrives, skal vi de neste tre forelesningene gå gjennom utvalgte eksempler.  
+* Hvert forelesningstema starter med en kort introduksjon til dagens tema. Deretter får dere tid til å arbeide med virkelige samfunnsøkonomiske analyser i grupper på inntil tre personer.  
+* [Under pensum](https://uit-sok-2301-h25.github.io/index.html) finner dere en liste med analyser dere kan velge fra. Hver gruppe velger én rapport, og dere arbeider med den i omtrent en halvtime per forelesning. Til slutt har vi en felles oppsummering der vi deler funnene våre knyttet til dagens tema. Dersom vi ikke rekker å fullføre oppsummeringen, fortsetter vi i neste time.  
+* Det er en fordel om dere ser raskt gjennom *deres rapport* i forkant, med tanke på temaet for den aktuelle forelesningen.  
 
