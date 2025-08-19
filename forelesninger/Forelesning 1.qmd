@@ -14,80 +14,30 @@ date: "2025-08-14"
 Alle innleveringer vil handle om ett case som dere skal jobbe med gjennom hele semesteret 
 
 * To obligatoriske innleveringer (arbeidskrav) 
-* Presentasjon (arbeidskrav) 
+* Presentasjoner (arbeidskrav) 
 * Prosjektoppgave (karaktergivende) 
 * Fra 1-3 i hver gruppe 
-* Prosjektet dere skal jobbe med er å lage en samfunnsøkonomisk utredning av Elektrifisering av sokkelen
+* Prosjektet dere skal jobbe med er å lage en samfunnsøkonomisk utredning av ny Kvaløyaforbindelse
 
 
+# Problemstillingen
+Dagens bro til Kvaløya er overbelastet, noe som fører til kø, forsinkelser og redusert fremkommelighet for både privatpersoner og næringsliv. Dette skaper utfordringer for transport, beredskap og utvikling på Kvaløya, og det er behov for tiltak som kan bedre trafikksituasjonen og sikre tilstrekkelig kapasitet for fremtidig vekst.
+![Kø Kvaløya](/img/que_kvaloya.jpg)
+
+En ny forbindelse vil, i tillegg til å økt fremkommelighet og bedre bedre beredskap, potensielt kunne bidra til rimelige tomter. Tromsø er en av de dyreste byene å bo i. En ny Kvaløyaforbindelse kan knytte nye områder og rimelige tomter på Kvaløya nær sentrum, og bidra til lavere boligpriser.
 
 
-# Hva innebærer elektrifisering av sokkelen?
-Elektrifisering av sokkelen refererer til prosessen med å erstatte eller supplere kraftproduksjonen på offshore olje- og gassplattformer med strøm fra land. Tradisjonelt har disse plattformene generert sin egen elektrisitet ved hjelp av gassturbiner som brenner naturgass, ofte produsert som et biprodukt av oljeutvinningen. Selv om dette har gjort plattformene selvforsynte med energi, har det også bidratt til betydelige CO2-utslipp, ettersom gassforbrenningen er en kilde til klimagasser.
-
-
-
-**Olje- og gassvirksomheten på norsk sokkel er en del av den kvotepliktige sektoren** under EUs kvotesystem (EU ETS), som betyr at utslippene fra denne sektoren er underlagt strenge reguleringer. Innenfor dette systemet er det satt et tak på totale utslipp, og virksomhetene må kjøpe eller motta kvoter for sine utslipp. Dette gjør at utslippene fra olje- og gassproduksjon i prinsippet ikke utgjør et problem for oppnåelsen av klimamålene, da de allerede er regulert gjennom kvotesystemet. Ifølge Parisavtalen regnes utslippene i kvotepliktig sektor som håndtert, og de omfattes dermed av de globale klimamålene.
-
-**Elektrifisering av sokkelen** innebærer imidlertid å koble plattformene til landbaserte elektrisitetsnett, slik at de kan drives av strøm fra land, som i stadig større grad kommer fra fornybare energikilder som vannkraft, vindkraft, og i noen tilfeller solenergi. Dette reduserer behovet for å brenne naturgass på plattformene, noe som fører til en betydelig reduksjon i klimagassutslippene fra offshore olje- og gassvirksomhet.
-
-**Hovedkomponentene i elektrifisering av sokkelen inkluderer:**
-
-1. **Kabelinfrastruktur**: Det må legges undersjøiske høyspentkabler som kan transportere strøm fra fastlandet til plattformene offshore. Disse kablene må tåle utfordrende forhold, inkludert stor dybde, trykk og potensielle værforhold som kan påvirke driften.
-
-2. **Transformatorstasjoner**: For å sikre at strømmen kan brukes effektivt på plattformene, er det nødvendig å etablere transformatorstasjoner både på land og på plattformene. Disse stasjonene omformer strømmen til passende spenning og frekvens for bruk i plattformens systemer.
-
-3. **Tilpasning av plattformene**: Plattformene må ofte tilpasses for å kunne motta og bruke strøm fra land. Dette kan innebære installasjon av nye elektriske komponenter, samt integrering av styrings- og kontrollsystemer som kan håndtere strømforsyning fra eksterne kilder.
-
-**Fordeler ved elektrifisering:**
-
-- **Reduksjon av CO2-utslipp**: Den største fordelen ved elektrifisering av sokkelen er den potensielle reduksjonen i CO2-utslipp. Ved å bruke fornybar strøm fra land i stedet for gassdrevne generatorer, kan utslippene fra plattformene reduseres betydelig. Netto vil imidlertid reduksjonen i CO2-utslipp i utgangspunktet være null, fordi utslippene er i kvoteplitig sektor. Det betyr at de kvotene som for eksempel Equinor ikke lenger kjøper, vil bli kjøpt og brukt av noen andre. Reduksjonen i CO2 vil imidlertid redusere behovet for CO2-kvoter, noe som vil redusere kostnadene ved utvinning. 
-
-- **Miljømessig og sosial aksept**: Selv om utslippene fra kvotepliktig sektor er regulert, kan reduksjon av utslippene fra olje- og gassvirksomheten bidra til bedre miljømessig og sosial aksept for industrien. Dette kan være viktig for å opprettholde tilliten til norsk energipolitikk og videreutvikling av sektoren.
-
-- **Driftsmessige fordeler**: Strøm fra land kan være mer stabil og pålitelig enn gassdrevne generatorer, noe som kan redusere vedlikeholdskostnader og øke oppetiden på plattformene.
-
-**Utfordringer ved elektrifisering:**
-
-- **Kostnader**: Elektrifisering krever betydelige investeringer i infrastruktur, inkludert kabler, transformatorstasjoner, og tilpasning av plattformene. Kostnadene må balanseres mot de potensielle miljømessige og økonomiske gevinstene, selv om utslippene allerede er håndtert gjennom kvotesystemet.
-
-- **Teknisk kompleksitet**: Å bygge og vedlikeholde undersjøiske kabler og sikre pålitelig strømforsyning til offshore plattformer er teknisk utfordrende, spesielt i Nordsjøen hvor værforholdene kan være krevende.
-
-- **Avhengighet av landbasert strøm**: Ved å overføre kraftproduksjonen til land, blir plattformene mer avhengige av stabiliteten i det landbaserte strømnettet. Eventuelle problemer med strømforsyningen på land kan påvirke driften på plattformene.
-
-
-
-# Hva er tiltaket?
-
-* Erstatte kraft på offshore plattformer med landstrøm
-* Tradisjonelt produsert egen elektrisitet med gass
-* En del av kvotepliktig sektor
-* Avbøtende tiltak - havvind
-
-Nytte: 
-
-  * Lavere utslipp/reduserte CO2-kostnader
-  * Lavere driftskostnader(?)
-  
-Kostnad:
-
-  * Investeringer
-  * Begrenset mengde strøm
-  * Avbøtende tiltak - havvind
-
-
-
-# Hva må utredes?
-* Investering i anlegg for å føre strøm til plattformene
-* Kostnaden for strømmen som brukes
-* Kostnaden ved alternativt å fortsette å kjøpe CO2-kvoter
-* Muligheten for å selge gassen som ikke brukes, videre
-  * I hvilken grad brennes gassen uansett opp? ("fakling")
-  * I hvilekn grad finnes det rør (forskjell for olje- og gassplattformer?)
-* Effekt på prisnivået for strøm bør nevnes, men er det en samfunnsøkonomisk kostnad?
-* Kostnad for avbøtende tiltak - Havvind
-
-
+# Informasjon som må innhentes
+* Hvor mye koster det å bygge tunnel?
+* Hva slags tunnel skal bygges
+* Hvilke traseer kan være aktuelle?
+* Samfunnsøkonomisk betydning av byutvikling (rimeligere tomter)
+* Hva vil det ha å si for 
+   * trafikksikkerhet
+   * kollektivtransport
+   * syklende og gående
+   * natur og miljø
+   * næringsutvikling/næringstrafikk
 
 
 # Innleveringene
@@ -112,25 +62,27 @@ Kostnad:
 # Nytte-kostnadsanalyse
 
 Nytte-kostnadsanalyse er en utredning av offentlige prosjekter som skal hjelpe politikerne og offentlige institusjoner til å prioritere prosjekter. 
+
 Det skal være en faglig vurdering og så objektiv som mulig. DFØ har en veileder som skal standardisere prosessen
-
-
-
 
 
 # Grunner til å gjennomføre samfunnsøkonomiske analyser 
 
 * Mest mulig velferd ut av samfunnets knappe ressurser ved å sørge for effektiv ressursbruk 
 * En systematisk gjennomgang av alle virkninger for berørte grupper i samfunnet 
-* Et godt beslutningsgrunnlag for å rangere og prioritere mellom alternative tiltak 
 * Sile ut ulønnsomme tiltak på et tidlig tidspunkt 
-* Et godt grunnlag for å realisere gevinster når tiltaket er iverksatt 
-* Et godt grunnlag for resultatmåling og evaluering av tiltaket i etterkant 
-* Gjøre grunnlaget for beslutninger om offentlige tiltak mer synlig for offentligheten
+* Bidra til et godt, transparent og faglig beslutningsgrunnlag for å
+    * rangere og prioritere mellom alternative tiltak 
+    * realisere gevinster når tiltaket er iverksatt 
+    * ha resultatmål for evaluering av tiltaket i etterkant 
+    * gjøre grunnlaget for beslutninger om offentlige tiltak mer synlig for offentligheten
 
-# Hva brukes en samfunnsøkonomisk analyse til?
+I tillegg finnes det mindre allmennyttige grunner. Mange av de samfunnsøkonomiske analysene som publiseres, gjøres på privat initativ. 
+Målet er da ofte å påvirke politiske beslutninger, i tillegg til at de også kan ha målsetninger som over.
 
-* På alle typer offentlige tiltak: reguleringer, investeringer, tjenesteproduksjon, reformer osv.
+# Hva lages det samfunnsøkonomiske analyser om?
+
+* Alle typer offentlige tiltak: reguleringer, investeringer, tjenesteproduksjon, reformer osv.
 * På tiltak utført av private aktører på oppdrag for staten
 * Innenfor alle sektorer i samfunnet
 * På prioriteringer innenfor en virksomhets ansvarsområder, innad i en sektor eller på tvers av ulike sektorer
@@ -141,7 +93,8 @@ Det skal være en faglig vurdering og så objektiv som mulig. DFØ har en veiled
 * Ta hensyn til økonomisk kvantifiserbare effekter (prissatte virkninger)
 * Ta hensyn til ikke-kvantifiserbare effekter (ikke-prissatte virkninger)
 * I så stor grad som mulig/hensiktsmessig ta med all relevant nytte og alle relevante kostnader
-* Unngå dobbelttellinger/glemme alternativ anvendelse
+* Unngå dobbelttellinger
+* Ta hensyn til alternativ anvendelse
 * Ikke ta politiske hensyn
 * Inneholde en usikkerhetsanalyse
 * Beskrive fordelingsvirkninger
@@ -159,7 +112,6 @@ Fra rapporten:
 # Prissatte konsekvenser:
 
 Fra rapporten:
-
 
 
 ![Tabell prissatte konsekvenser](/img/kvaloya_tabell.png)
@@ -265,4 +217,16 @@ De problemene som samfunnet kan eller bør løse, kalles samfunnsproblemer.
 * Utforsk mulighetsrommet.
 * Grovsil tiltakene.
 * Beskriv tiltakene og vurder utformingen.
+
+
+# Struktur på forelesningene  
+
+Mine forelesninger tar for seg hvordan man i praksis utarbeider en nytte-kostnadsanalyse, mens Tapas’ forelesninger fokuserer på teorien.  
+For å lære hvordan slike analyser faktisk skrives, skal vi de neste tre forelesningene gå gjennom utvalgte eksempler.  
+
+Hver forelesning starter med en kort introduksjon til dagens tema. Deretter får dere tid til å arbeide med virkelige samfunnsøkonomiske analyser i grupper på inntil tre personer.  
+
+[Under pensum](https://uit-sok-2301-h25.github.io/index.html) finner dere en liste med analyser dere kan velge fra. Hver gruppe velger én rapport, og dere arbeider med den i omtrent en halvtime per forelesning. Til slutt har vi en felles oppsummering der vi deler funnene våre knyttet til dagens tema. Dersom vi ikke rekker å fullføre oppsummeringen, fortsetter vi i neste time.  
+
+Det er en fordel om dere ser raskt gjennom *deres rapport* i forkant, med tanke på temaet for den aktuelle forelesningen.  
 

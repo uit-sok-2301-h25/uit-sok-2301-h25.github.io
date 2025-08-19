@@ -4,23 +4,7 @@ subtitle: SOK-2301 - Nytte-kostnadsanalyse i teori og praksis
 
 author: "Espen Sirnes"
 date: "2025-09-02"
-format: 
-  revealjs: 
-    smaller: true
-    scrollable: true
-    #multiplex: true
-    chalkboard: true
-    self-contained: false
-    footer: "[uit-sok-2301-v24.github.io/](https://uit-sok-2301-h25.github.io/)"
-    slide-number: c/t
-    title-slide-attributes:
-      data-background-image: img/title_slide.png
-      data-background-size: cover
-  pdf: default
-  ipynb: default
-css: custom.css
-editor: visual
-from: markdown+emoji
+
 ---
 
 # Framgangsmåte for å vurdere virkninger
