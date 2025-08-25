@@ -21,6 +21,7 @@ Som hovedregel er det kun grupper i Norge som skal tas med.
 # Nyttevirkninger
 
 Nyttevirkninger er gir enkeltgrupper eller befolkningen økt velferd. Nytten bør helst kunne kvantifiseres. Eksempler på nyttevirkninger er
+
 * økt trygghet som følge av redusert kriminalitet
 * økt tilfredshet hos brukerne når kvaliteten på tjenesten forbedres
 * tidsbesparelser ved forenklet rapportering
