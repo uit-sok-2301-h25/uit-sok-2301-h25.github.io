@@ -19,7 +19,7 @@ Pensum:
 |--------|----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
 | 19. august|F1   | Innledning - Hva er kostnads-nytte analyse, og hvordan gjennomføres dette? | ES       | [Veil Kap. 1, 2, 3.1, 3.2](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 1](forelesninger/Forelesning 1.html) [pdf](forelesninger/Forelesning-1.pdf) | 
 |25. august |F2  | Identifisering av virkninger og ringvirkninger  | ES | [Veil Kap 3.3, 4.3 vedlegg 1.1](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 2](forelesninger/Forelesning 2.html) [pdf](forelesninger/Forelesning-2.pdf) |
-|28. august|F4  | Mikroøkonomisk fundament for nytte-kostnadsanalyse | TK | BGVW kap. 2, 3; TK-25: Sec. 1. |
+|28. august (Online) [Zoom link](https://oslomet.zoom.us/j/62808196274?pwd=bEX2BTgyP1sheGbHYFynyuSJqqLicQ.1) (Meeting ID: 628 0819 6274 ; Password: 254347)|F4  | Mikroøkonomisk fundament for nytte-kostnadsanalyse | TK | BGVW kap. 2, 3; TK-25: Sec. 1. |
 |4. september|F6  | Verdsetting av effekter i innsatsmarkedet, sluttproduktmarkedet og sekundærmarkedet | TK |  BGVW kap. 5, 6, 7; TK-25: Sec. 2. | 
 |8. september|F3  |Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet | ES | [Veil Kap 3.4, 3.5](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 3](forelesninger/Forelesning 3.html) [pdf](forelesninger/Forelesning-3.pdf)|
 |12. september |**Frist** AK 1  | Innlevering av første arbeidskrav |  |Fredag 12. sept. 1600  |
