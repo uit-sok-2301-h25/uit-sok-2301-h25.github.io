@@ -5,6 +5,7 @@ project:
     - Forelesning 2.qmd
     - Forelesning 3.qmd
     - Forelesning 4.qmd
+    - prosjekt.qmd
 
 
 format:
