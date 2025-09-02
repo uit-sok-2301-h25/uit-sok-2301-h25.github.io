@@ -33,8 +33,8 @@ Andrea og Gude
 ## Kostnader
 * Spilleavhengighet
 
-# Norlys vindpark
-Simon og Erling Henrik
+# Nordlys vindpark
+Simon, Erling, Henrik
 
 ## Nytte
 * Utbyggingsfase: 70% til lokale 471 mill
