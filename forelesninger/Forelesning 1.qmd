@@ -6,8 +6,7 @@ author: "Espen Sirnes"
 date: "2025-08-14"
 
 format:
-  revealjs: 
-    smaller: true
+  html: default
   pdf: default
   ipynb: default
 ---
