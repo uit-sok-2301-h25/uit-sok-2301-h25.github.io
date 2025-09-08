@@ -1,9 +1,8 @@
-# Kvaløyaforbindelsen
-Niklas Isak
 
 # Kvaløyaforbindelse
-* Johan og Markus
-# Nytte:
+* Johan og Markus, Niklas, Isak
+
+## Nytte:
 * Trafikantnytte
 * Gående
 * Syklende
@@ -11,20 +10,14 @@ Niklas Isak
 * Beredskap
 * Bilistene(mindre kø)
 
-# Kostnader
+## Kostnader
 * Fare for mer bilbruk
 * Kostnader
 * Miljøavtrykk
 
 
-# Nordnorgebanen
-Johan, Markus og Sander
-
 # Pengespill
-Heine og Sigurd
-
-# Pengespill
-Andrea og Gude
+Andrea, Gude, Heine og Sigurd
 ## Nytte
 * Skatteinntekter
 * Økt konkurranse/bedre odds
@@ -34,7 +27,7 @@ Andrea og Gude
 * Spilleavhengighet
 
 # Nordlys vindpark
-Simon, Erling, Henrik
+Simon, Erling, Henrik, Mia og Michael
 
 ## Nytte
 * Utbyggingsfase: 70% til lokale 471 mill
@@ -42,7 +35,7 @@ Simon, Erling, Henrik
 * Bedre veier til uberørt natur
 * CO2-besparelse. Strøm til 40 000 husstander
 
-# Kostnader:
+## Kostnader:
 * Driftskostnader 2.5 mrd
 * Miljøkostnader
 
@@ -61,15 +54,17 @@ Christian og Kevin og Håkon
 # Idrettsanlegg
 Sivert, Niclas og Paul
 
-# Nordlys vindpark
-Mia og Michael 
-
-# Effektiviserin av olje og gassektoren
+# Effektivisering av olje og gassektoren
 Iver og Phu
 
-# Nytte:
+## Nytte:
 * Reduksjon av utslipp - 20% av nødvendige utslipp frem til 2030
 * Mindre bruk av gass
 
-# Kostnader
+## Kostnader
 * Kostnader til kablene/utbygging
+
+
+# Nordnorgebanen
+Johan, Markus og Sander
+
