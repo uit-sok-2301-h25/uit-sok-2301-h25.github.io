@@ -51,8 +51,7 @@ Christian og Kevin og Håkon
 ## Kostnader
 ...
 
-# Idrettsanlegg
-Sivert, Niclas og Paul
+
 
 # Effektivisering av olje og gassektoren
 Iver og Phu
@@ -68,3 +67,5 @@ Iver og Phu
 # Nordnorgebanen
 Johan, Markus og Sander
 
+# Idrettsanlegg
+Sivert, Niclas og Paul
