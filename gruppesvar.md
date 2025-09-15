@@ -15,6 +15,11 @@
 * Kostnader
 * Miljøavtrykk
 
+## Rangering
+* Alle i minus
+* Ikke prissatte virkninger 
+* Ikke prissatte: 5 kategorier
+* Tatt med ikke prssatte virkninger i vurderingen
 
 # Pengespill
 Andrea, Gude, Heine og Sigurd
@@ -25,6 +30,12 @@ Andrea, Gude, Heine og Sigurd
 
 ## Kostnader
 * Spilleavhengighet
+
+## Rangering
+* Nåpverdi for ulike skattesatser
+* Ikke prissatt: Problemspilling
+* Konsumentoverskudd: usikkert
+* 
 
 # Nordlys vindpark
 Simon, Erling, Henrik, Mia og Michael
@@ -39,6 +50,12 @@ Simon, Erling, Henrik, Mia og Michael
 * Driftskostnader 2.5 mrd
 * Miljøkostnader
 
+## Rangering
+* Lite på ikke prissatte virkninger
+* Ingen eksplisitt nåverdi
+* Ingen rangering
+
+
 
 # Egne merkevarer
 Christian og Kevin og Håkon
@@ -51,6 +68,9 @@ Christian og Kevin og Håkon
 ## Kostnader
 ...
 
+## Rangering
+* Ingen nåverdi
+* EMV skader leverandørene
 
 
 # Effektivisering av olje og gassektoren
@@ -69,3 +89,10 @@ Johan, Markus og Sander
 
 # Idrettsanlegg
 Sivert, Niclas og Paul
+
+# Rangering
+* NV 3x kostnad
+* Bedre enn nullaternativet
+* Helsevirkninger
+
+

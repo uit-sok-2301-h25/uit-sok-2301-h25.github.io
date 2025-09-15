@@ -53,10 +53,7 @@ date: "2025-09-02"
 # Skattefinansieringskostnad
 
 1.  Identifiser direkte netto virkningen på offentlige budsjetter
-2.  Identifiser indirekte netto endring i beskatningsgrunnlaget.
-
--   multipliser med 45%
-
+2.  Identifiser indirekte netto endring i beskatningsgrunnlaget og multipliser  med 45%
 3.  Skattefinansieringskostnaden er 20% av 1 og 2
 
 # Ikke prissatte virkninger
