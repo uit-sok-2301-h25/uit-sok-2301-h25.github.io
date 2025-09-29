@@ -25,7 +25,7 @@ Pensum:
 |12. september |**Frist** AK 1  | Innlevering av første arbeidskrav |  |Fredag 12. sept. 1600  |
 |22. september |F5  | Usikkerhet og virkninger uten markedspris | ES | [Veil Kap 4.1, 3.6, 4.4](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 4](forelesninger/Forelesning 4.html) [pdf](forelesninger/Forelesning-4.pdf) [jupyter](forelesninger/Forelesning 4.ipynb)|
 |26. september|F8  | Verdsetting uten markedspris og Diskontering | TK |  BGVW kap. 9, 10, 15; TK-25: Sec. 3, 4. |
-|6. oktober|F7  | Sammenfatning av effekter  | ES |[ Veil Kap 3.7, 3.8](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) |
+|8. oktober|F7  | Sammenfatning av effekter  | ES |[ Veil Kap 3.7, 3.8](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) |
 |13. oktober|F10 | Tips til oppgaven  | ES |  |
 |16. oktober  |F9  | Risiko, sensitivitetsanalyse og opsjonsverdi | TK |  BGVW kap. 11; TK-25: Sec. 5. |
 |20. oktober|F11 | Ekstern presentasjon? | ES |  |
