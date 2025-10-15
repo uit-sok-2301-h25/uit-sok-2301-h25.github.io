@@ -27,7 +27,7 @@ Pensum:
 |26. september|F8  | Verdsetting uten markedspris og Diskontering | TK |  BGVW kap. 9, 10, 15; TK-25: Sec. 3, 4. [Lecture slide](forelesninger/TK3.pdf)|
 |8. oktober|F7  | Sammenfatning av effekter  | ES |[ Veil Kap 3.7, 3.8](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) |
 |13. oktober|F10 | Tips til oppgaven  | ES |  |
-|16. oktober  |F9  | Risiko, sensitivitetsanalyse og opsjonsverdi | TK |  BGVW kap. 11; TK-25: Sec. 5. |
+|16. oktober  |F9  | Risiko, sensitivitetsanalyse og opsjonsverdi | TK |  BGVW kap. 11; TK-25: Sec. 5. [Lecture slide](forelesninger/TK4.pdf)|
 |20. oktober|F11 | Ekstern presentasjon? | ES |  |
 |24. oktober |**Frist** AK 2  | Innlevering av andre arbeidskrav |  |Fredag 24. okt. 1600 |
 |10. november |**Presentasjon** | Presentasjon av prosjektoppgaven  | ES |Påmeldingsskjema kommer |
@@ -38,6 +38,7 @@ Pensum:
 
 
    
+
 
 
 
